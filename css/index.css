@@ -139,7 +139,7 @@ body {
     }
 
     .main__section {
-        height: 380px;
+        max-height: 380px;
         margin-top: 2rem;
     }
 
