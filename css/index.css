@@ -127,7 +127,7 @@ body {
     margin: 0;
 }
 
-@media (max-width: 425px) {
+@media (max-width: 425px), (max-width: 375px) {
     .main {
         width: 327.5px;
         min-height: 100vh;
