@@ -131,7 +131,7 @@ body {
     .main {
         width: 327.5px;
         /* min-height: 100vh; */
-        max-height: 380px;
+        height: 560px;
     }
 
     .main__hero .hero__image {
